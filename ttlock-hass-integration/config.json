@@ -33,5 +33,5 @@
     "debug_mqtt": "bool?",
     "gateway_debug": "bool?"
   }, 
-  "arch": ["amd64", "armv7", "armhf", "i386" , "aarch64"]
+  "arch": ["amd64", "armv7", "armhf", "i386" , "aarch64", "aarch64-base"]
 }
