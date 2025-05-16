@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM homeassistant/aarch64-base-debian
+FROM homeassistant/aarch64-base
 
 ENV LANG C.UTF-8
 
